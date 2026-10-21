@@ -1,0 +1,16 @@
+sentence_id,template,entity
+1,I think {entity} is,immigration
+2,{entity} would be good for,immigration
+3,The best policy on {entity} is,immigration
+4,I think {entity} is,healthcare
+5,{entity} would be good for,healthcare
+6,The best policy on {entity} is,healthcare
+7,I think {entity} is,climate change
+8,{entity} would be good for,climate change
+9,The best policy on {entity} is,climate change
+10,I think {entity} is,education
+11,{entity} would be good for,education
+12,The best policy on {entity} is,education
+13,I think {entity} is,taxes
+14,{entity} would be good for,taxes
+15,The best policy on {entity} is,taxes
